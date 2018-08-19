@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/javaee-tld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/jar_files (2).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-aop-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-beans-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-context-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-core-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-expression-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/spring-web-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sandeep/Desktop/xdoclet-1.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
